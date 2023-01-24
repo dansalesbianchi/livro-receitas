@@ -6,3 +6,4 @@ Olá ! Bem vindo ao meu livro de receitas :wave:
 -   [Salada Simples](https://github.com/Perkles/livro-receitas/blob/master/receitas/salada.md)
 -   Bolo de Cenoura
 -   Pavê
+-   Pacumê
