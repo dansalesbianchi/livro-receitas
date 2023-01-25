@@ -25,5 +25,3 @@ Rasgue as folhas do alface para que fiquem menores. Rale as cenouras e a beterra
 Junte o açúcar, sal, azeite e vinagre em uma xícara.
 Misture bem com uma colher e despeje sobre a salada.
 Pronto!
-
-Mudei mais um pouco aqui no fim!
